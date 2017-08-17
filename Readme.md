@@ -4,6 +4,10 @@ Github's CSS implementation in Rails.
 
 Since their CSS is licensed under MIT, I figured why not create a gem out of it.
 
+## Documentation
+
+Currently, there is no documentation available. You current have to clone the styles from the GitHub-Page.
+
 ## Installation
 
 Add this line to your application's Gemfile:
