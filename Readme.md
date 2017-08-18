@@ -13,7 +13,7 @@ Currently, there is no documentation available. You current have to clone the st
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'github-rails'
+gem 'github-css'
 ```
 
 And then execute the following command:
@@ -30,7 +30,7 @@ Add the following line to your application.css / application.scss file:
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at [the official Repository](https://github.com/venarius/github-rails).
+Bug reports and pull requests are welcome on GitHub at [the official Repository](https://github.com/venarius/github-css).
 
 
 ## License
