@@ -1,6 +1,6 @@
-require "github/rails/version"
+require "gitcss/rails/version"
 
-module Github
+module Gitcss
   module Rails
     class Engine < ::Rails::Engine
     end
